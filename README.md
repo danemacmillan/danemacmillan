@@ -1,16 +1,12 @@
-## Hi there 👋
+# About Dane MacMillan
 
-<!--
-**danemacmillan/danemacmillan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Technology executive and hands-on software developer with 18 years of experience
+building and scaling high-availability SaaS and e-commerce platforms.**
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Combines a deep foundation in software development, systems architecture, engineering best
+practices, and technical mentorship with executive leadership, cybersecurity, M&A
+integration, and organizational scale. A decisive, self-directed, and principled leader who
+sets exceptionally high standards, and takes ownership. Brings a creative and reflective
+approach to problems, balancing intuition with evidence, translating complexity into clear
+direction that inspires others toward strong outcomes. Ability to identify subtleties, earn
+trust, assume ownership, and become integral to both strategy and execution.

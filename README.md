@@ -1,4 +1,4 @@
-# About Dane MacMillan
+# 👨‍💻 About Dane MacMillan
 
 **Technology executive and hands-on software developer with 18 years of experience
 building and scaling high-availability SaaS and e-commerce platforms.**

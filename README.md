@@ -12,3 +12,4 @@ Combines a deep foundation in software development, systems architecture, engine
 ## Some writing
 
 - [Writing a job description that software developers recognize themselves in](https://danemacmillan.com/writing-a-job-description-that-software-developers-recognize-themselves-in/)
+- [My career at FortNine](https://danemacmillan.com/my-career-at-fortnine/)
